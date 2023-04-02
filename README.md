@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Web+Developer +|+ DSA+Enthusiast +|+ Competitive Programmer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Web+Developer +|+ DSA+Enthusiast.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
 
