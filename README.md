@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full+Stack+Developer|DSA+Enthusiast.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Gen+AI+Full+Stack+Developer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
 
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/utkarsh-goyal-83339a191/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-UtkarshGoyal-blue">  </a> 
 
 #Talking about Personal Stuffs:
-- 🔭 I’m currently studying in Ajay kumar garg engineering college
-- 🌱 I’m currently learning MERN Stack and DSA.
+- 🔭 I’m currently working in SHL as a Software Engineer.
+- 🌱 I’m currently building GenAI Full Stack web applications.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: utkarshgoyal648@gmail.com;
 
