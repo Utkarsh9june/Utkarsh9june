@@ -1,72 +1,75 @@
-<!-- Banner / Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=10F7E8&center=true&vCenter=true&width=800&lines=Gen+AI+Full+Stack+Web+Developer;Software+Engineer+at+SHL;MERN+Stack+%7C+LLMs+%7C+MLOps;Always+learning+new+things...)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&center=true&vCenter=true&width=700&lines=GenAI+Full+Stack+Developer;Software+Engineer+at+SHL;MERN+Stack+%7C+LLMs+%7C+MLOps;Building+AI+powered+developer+tools;Always+learning+new+things...">
+</p>
 
-<h2 align="center">Hi there 👋, I'm Utkarsh Goyal</h2>
+<h2 align="center">Hi 👋, I'm Utkarsh Goyal</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/utkarsh-goyal-83339a191/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-UtkarshGoyal-blue?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/utkarsh-goyal-83339a191" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-UtkarshGoyal-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:utkarshgoyal648@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-utkarshgoyal648%40gmail.com-red?style=flat&logo=gmail" />
+  <a href="mailto:utkarshgoyal648@gmail.com">
+    <img src="https://img.shields.io/badge/Email-utkarshgoyal648%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Utkarsh9june&style=flat-square&color=blue" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 🔭 **Software Engineer at SHL**  
-- 🌱 Building **GenAI-powered Full Stack Web Applications**  
-- 💡 Passionate about **LLMs, MERN Stack, MLOps, Developer Tools & AI Automation**  
-- 💬 Ask me about **React, Node.js, MongoDB, GenAI, Prompt Engineering**  
-- 📫 Reach me at **utkarshgoyal648@gmail.com**
+
+- 💼 Software Engineer at **SHL**  
+- ⚡ Building **GenAI-powered Full Stack Applications**  
+- 🌱 Exploring **LLMs, RAG, Vector DBs, and MLOps**  
+- 🧰 Tech Stack: **MERN**, **Python**, **Docker**, **FastAPI**, **LLMs**  
+- 📬 Reach me at **utkarshgoyal648@gmail.com**
 
 ---
 
-## 🛠 Languages & Tools  
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,python,git,github,vscode,linux,bash,docker" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Utkarsh9june&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh9june&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Utkarsh9june&theme=highcontrast&show_icons=true&count_private=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh9june&layout=compact&theme=highcontrast" />
+  <img src="https://streak-stats.demolab.com?user=Utkarsh9june&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Utkarsh9june&theme=neon-palenight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh9june&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## ⚡ Fun Add-ons  
+## 🚀 Current Focus
 
-### ✨ Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh9june&theme=react-dark&hide_border=true" />
-</p>
-
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Utkarsh9june/Utkarsh9june/blob/output/github-contribution-grid-snake.svg" />
-</p>
+- Building **GenAI SaaS Applications**
+- MERN + LLM + Cloud Deployments  
+- Automating developer workflows  
+- Exploring **high-scalability AI Infrastructure**
 
 ---
 
-## 🎯 Current Focus  
-- 🚀 Building **GenAI SaaS Projects**  
-- 📦 Working on **MERN + LLM Integrations**  
-- ⚙️ Exploring **high-scalability AI infra & MLOps**  
-
----
-
-### ⭐ If you like my profile, consider giving a ⭐ to my repositories!
+<p align="center">
+  ⭐ Love my work? Star my repositories!
+</p>
