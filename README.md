@@ -1,60 +1,72 @@
-<!-- ### Hi 👋 I am Utkarsh Goyal , a Computer Science Engineer to solve real world problems.✨
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![Github stats](https://github-readme-stats.vercel.app/api?username=ayushigoyal2840&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushigoyal2840) -->
-<!--
-**Utkarsh9june/Utkarsh9june** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Banner / Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=10F7E8&center=true&vCenter=true&width=800&lines=Gen+AI+Full+Stack+Web+Developer;Software+Engineer+at+SHL;MERN+Stack+%7C+LLMs+%7C+MLOps;Always+learning+new+things...)](https://git.io/typing-svg)
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Gen+AI+Full+Stack+Web+Developer.++++++++++)](https://git.io/typing-svg)
+<h2 align="center">Hi there 👋, I'm Utkarsh Goyal</h2>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/utkarsh-goyal-83339a191/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-UtkarshGoyal-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:utkarshgoyal648@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-utkarshgoyal648%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Utkarsh9june&style=flat-square&color=blue" />
+</p>
 
-</p>  
-<h2 align="center">Hi there 👋, I'm Utkarsh!</h2>
+---
 
+## 🚀 About Me  
+- 🔭 **Software Engineer at SHL**  
+- 🌱 Building **GenAI-powered Full Stack Web Applications**  
+- 💡 Passionate about **LLMs, MERN Stack, MLOps, Developer Tools & AI Automation**  
+- 💬 Ask me about **React, Node.js, MongoDB, GenAI, Prompt Engineering**  
+- 📫 Reach me at **utkarshgoyal648@gmail.com**
 
-<a href="https://www.linkedin.com/in/utkarsh-goyal-83339a191/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-UtkarshGoyal-blue">  </a> 
+---
 
-#Talking about Personal Stuffs:
-- 🔭 I’m currently working in SHL as a Software Engineer.
-- 🌱 I’m currently building GenAI Full Stack web applications.
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: utkarshgoyal648@gmail.com;
+## 🛠 Languages & Tools  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,linux,bash" />
+</p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Utkarsh9june&theme=highcontrast&show_icons=true&count_private=true)
+---
 
+## 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh9june&layout=compact)
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Utkarsh9june&theme=highcontrast&show_icons=true&count_private=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh9june&layout=compact&theme=highcontrast" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Utkarsh9june&theme=neon-palenight&hide_border=true)
+---
 
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Utkarsh9june&theme=neon-palenight&hide_border=true" />
+</p>
 
+---
 
+## ⚡ Fun Add-ons  
 
-**Languages and Tools:**  
+### ✨ Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh9june&theme=react-dark&hide_border=true" />
+</p>
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Utkarsh9june/Utkarsh9june/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
+---
 
-![](https://komarev.com/ghpvc/?username=Utkarsh9june)
+## 🎯 Current Focus  
+- 🚀 Building **GenAI SaaS Projects**  
+- 📦 Working on **MERN + LLM Integrations**  
+- ⚙️ Exploring **high-scalability AI infra & MLOps**  
+
+---
+
+### ⭐ If you like my profile, consider giving a ⭐ to my repositories!
