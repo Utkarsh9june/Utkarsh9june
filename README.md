@@ -35,7 +35,7 @@
 
 ---
 
-# 📊 GitHub Stats (Latest Version)
+# 📊 GitHub Stats 
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-# 🔥 GitHub Streak (Latest Engine)
+# 🔥 GitHub Streak 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Utkarsh9june&theme=tokyonight&hide_border=true&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" />
@@ -59,7 +59,7 @@
 
 # ⚡ Fun Developer Add-ons
 
-### 🚀 Contribution Activity Graph (New Version)
+### 🚀 Contribution Activity Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh9june&theme=react-dark&area=true&hide_border=true" />
@@ -67,7 +67,7 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake (Works After Action Setup)
+### 🐍 GitHub Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Utkarsh9june/Utkarsh9june/output/github-contribution-grid-snake.svg" alt="snake animation" />
